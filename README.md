@@ -6,22 +6,22 @@
 
 
 # Temas Abordados no Manual
-$ 
+
 1 - Introdução ao Git e ao Controle de verção
 2 - Instalação e configuração do git
 3 - Comandos básicos
 4 - Branches e merge
 5 - Github e pull requests
-$
+
 
 # Integrantes do grupo 
 
-1 - Leonardo Dos Santos Barbosa - RA 240020
-2 - Andrei Matos Costas - RA 14564 (GitHub e Pull Requests) 
-3 - VIlle Nunes Figueiredo da Silva - RA 5432 (Gerenciar Trabalho)
-4 - Eduardo Vergentino Malaquias - RA 14532 (Comando básicos) 
-5 - Isabely Novais Dalava - RA: 14611 (Branches e Merge)
-6 - Geovane de Lucas Quinhone Ker - RA 14511 (Instalação e configuração do Git)
+1 - Leonardo Dos Santos Barbosa - RA 240020 
+2 - Andrei Matos Costas - RA 14564 
+3 - VIlle Nunes Figueiredo da Silva - RA 5432 
+4 - Eduardo Vergentino Malaquias - RA 14532 
+5 - Isabely Novais Dalava - RA: 14611 
+6 - Geovane de Lucas Quinhone Ker - RA 14511 
 
 # Relação de alunos com os links
 $
