@@ -27,7 +27,7 @@ A proposta é que o próprio manual seja **versionado com Git**, permitindo apli
 | Ville Nunes Figueiredo da Silva      | 5432     | [VilleNunes](https://github.com/VilleNunes) |
 | Eduardo Vergentino Malaquias         | 14532    | [mangamadur4](https://github.com/mangamadur4) |
 | Isabely Novais Dalava                | 14611    | [2467isa](https://github.com/2467isa) |
-| Geovane de Lucas Quinhone Ker        | 14511    | *(link não informado)*                |
+| Geovane de Lucas Quinhone Ker        | 14511    | [Geovane](https://github.com/GeoQuinhone2024)                |
 
 ---
 
