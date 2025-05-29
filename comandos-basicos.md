@@ -45,3 +45,19 @@ Vai para outro branch.
 .Mesclar branch
 git merge nova-branch
 Junta as mudanças de uma branch no branch atual.
+
+Simulações:
+
+git init comandos-basicos
+cd comandos-basicos
+touch README.md
+git add README.md
+git commit -m "commit inicial com README"
+git checkout -b comandos-basicos01
+"Comandos Básicos" > comandos-basicos.txt
+git add .
+git commit -m "Adicionado comandos básicos"
+git checkout main
+git pull origin main
+git merge comandos-basicos01
+git push origin main
