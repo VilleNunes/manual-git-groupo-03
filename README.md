@@ -17,8 +17,11 @@ A proposta é que o próprio manual seja **versionado com Git**, permitindo apli
 5. ☁️ **GitHub e Pull Requests**
 
 ---
+# Imagens dos históricos do GitHub
+<img src="img/trabalhoDevOps.png" alt="Logo do projeto" width="100%"/>
+<img src="img/trabalhoDevOps1.png" alt="Logo do projeto" width="100%"/>
 
-## 👨‍💻 Integrantes do Grupo
+# 👨‍💻 Integrantes do Grupo
 
 | 👤 Nome                               | 🎓 RA     | 🔗 GitHub                              |
 |--------------------------------------|----------|----------------------------------------|
