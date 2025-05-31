@@ -8,13 +8,13 @@ A proposta é que o próprio manual seja **versionado com Git**, permitindo apli
 
 ---
 
-## 📚 Conteúdo do Manual
+## 📚 Conteúdo do Manual com links
 
-1. 🧭 **Introdução ao Git e ao Controle de Versão**  
-2. 🛠️ **Instalação e Configuração do Git**  
-3. 🧩 **Comandos Básicos do Git**  
-4. 🌿 **Branches e Merge**  
-5. ☁️ **GitHub e Pull Requests**
+1. 🧭 [**Introdução ao Git e ao Controle de Versão**](https://github.com/VilleNunes/manual-git-groupo-03/blob/main/introducao.md)  
+2. 🛠️ [**Instalação e Configuração do Git**](https://github.com/VilleNunes/manual-git-groupo-03/blob/main/instalacao-configuracao.md) 
+3. 🧩 [**Comandos Básicos do Git**](https://github.com/VilleNunes/manual-git-groupo-03/blob/main/comandos-basicos.md)
+4. 🌿 [**Branches e Merge**](https://github.com/VilleNunes/manual-git-groupo-03/blob/main/branches-merges.md) 
+5. ☁️ [**GitHub e Pull Requests**](https://github.com/VilleNunes/manual-git-groupo-03/blob/main/pull-requests.md)
 
 ---
 # Imagens dos históricos do GitHub
